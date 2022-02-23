@@ -17,5 +17,5 @@ if __name__ == '__main__':
                 os.replace(file, name + "/" + file)
 
     print("================================================================")
-    print("=                   Successful parse file                  =")
+    print("=                   Successful parse file                      =")
     print("================================================================")
